@@ -164,7 +164,6 @@ public class BluetoothAP {
     /**
      * Establish connection with other divice
      *
-     * @param data   An {@link Intent} with {@link DeviceList#EXTRA_DEVICE_ADDRESS} extra.
      * @param secure Socket Security type - Secure (true) , Insecure (false)
      */
 //    private void connectDevice(Intent data, boolean secure) {
